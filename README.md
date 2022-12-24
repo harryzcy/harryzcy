@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 1) [my mailbox that supports unlimited email addresses](https://github.com/harryzcy/mailbox), 2) [workflow runner for Notion](https://github.com/harryzcy/nodop), and many others.
 - 📫 How to reach me: [my website](https://chongyi-unc.com/) is the place to go
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
