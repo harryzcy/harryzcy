@@ -2,8 +2,12 @@
 
 - 📫 How to reach me: [my website](https://chongyi-unc.com/) is the place to go
 
-![harryzcy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=dark#gh-dark-mode-only)
-![harryzcy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=default#gh-light-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=dark">
+  <img alt="harryzcy's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=default">
+</picture>
+</a>
 
 <!--
 **harryzcy/harryzcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
