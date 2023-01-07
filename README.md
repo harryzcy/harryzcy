@@ -7,7 +7,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=dark&border_color=30363d">
   <img alt="harryzcy's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=harryzcy&show_icons=true&theme=default">
 </picture>
 </a>
