@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 1) [my mailbox that supports unlimited email addresses](https://github.com/harryzcy/mailbox), 2) [workflow runner for Notion](https://github.com/harryzcy/nodop), and many others.
+- 🔭 I’m currently working on 1) [a self hosted mailbox for custom domains](https://github.com/harryzcy/mailbox), 2) [workflow runner for Notion](https://github.com/harryzcy/nodop), and many others.
 - 📫 How to reach me: [my website](https://zcy.dev/) is the place to go
 
 ### Stats about myself
