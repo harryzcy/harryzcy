@@ -7,7 +7,7 @@
 
 If you discover a security issue in any of my repositories, please report to me at `security@zcy.dev`.
 
-### Stats about myself
+### Stats on GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
