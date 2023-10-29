@@ -9,12 +9,10 @@ If you discover a security issue in any of my repositories, please report to me 
 
 ### Stats on GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zcy.dev/api?username=harryzcy&show_icons=true&theme=dark&border_color=30363d">
   <img alt="harryzcy's GitHub Stats." src="https://github-readme-stats.zcy.dev/api?username=harryzcy&show_icons=true&theme=default">
 </picture>
-</a>
 
 <!--
 **harryzcy/harryzcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
