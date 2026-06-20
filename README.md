@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 1) [a self hosted mailbox for custom domains](https://github.com/harryzcy/mailbox), 2) [workflow runner for Notion](https://github.com/harryzcy/nodop), and many others.
+- 🔭 I’m currently working on [a wildcard mailbox for custom domains](https://github.com/harryzcy/mailbox), and some others.
 - 📫 How to reach me: [my website](https://zcy.dev/) is the place to go
 
 <!--
